@@ -1,7 +1,7 @@
 system {
-    host-name vyos
+    host-name mct
     login {
-        user vyos {
+        user mct {
             authentication {
                 encrypted-password "*"
                 plaintext-password ""
